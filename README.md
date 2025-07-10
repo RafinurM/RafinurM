@@ -1,4 +1,5 @@
-## Hi there 👋
+# 👋 Приветствую!
+## Я Рафинур и я Frontend разработчик
 
 <!--
 **RafinurM/RafinurM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
