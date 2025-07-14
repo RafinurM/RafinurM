@@ -1,6 +1,6 @@
 # 👋 Приветствую!
 ## Я Рафинур и я Frontend разработчик
-
+### Занимаюсь разработкой web и мультимедийных приложений на React, JS
 <!--
 **RafinurM/RafinurM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
