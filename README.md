@@ -1,8 +1,9 @@
-# 👋 Приветствую!
-## Я Рафинур и я Frontend разработчик
-### Занимаюсь разработкой web и мультимедийных приложений на React, TS, Vanilla JS
-### Увлекает разработка UI и улучшение UX. 
-### <https://www.codewars.com/users/Akapa4ka/badges/micro>
+<h1 align="center">Приветствую, я Рафинур 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h2 color="wheat">Frontend-разработчик</h2>
+<p>Занимаюсь разработкой web и мультимедийных приложений на React, TS, Vanilla JS</p>
+<p>Увлекает разработка UI и улучшение UX</p> 
+<img src="https://www.codewars.com/users/Rafinur%20Mursalimov/badges/small" />
 <!--
 **RafinurM/RafinurM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
