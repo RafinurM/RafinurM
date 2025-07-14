@@ -1,6 +1,8 @@
 # 👋 Приветствую!
 ## Я Рафинур и я Frontend разработчик
-### Занимаюсь разработкой web и мультимедийных приложений на React, JS
+### Занимаюсь разработкой web и мультимедийных приложений на React, TS, Vanilla JS
+### Увлекает разработка UI и улучшение UX. 
+### <https://www.codewars.com/users/Akapa4ka/badges/micro>
 <!--
 **RafinurM/RafinurM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
