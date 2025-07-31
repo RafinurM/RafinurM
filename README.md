@@ -1,4 +1,4 @@
-<h1 align="center">Моё имя -  Рафинур ♊️
+<h1 align="center">Моё имя -  Рафинур 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 color="wheat">Frontend-разработчик</h2>
 <p>Занимаюсь разработкой web и мультимедийных приложений на React, TS, Vanilla JS</p>
